@@ -1,1 +1,1 @@
-web: gunicorn infomptest.wsgi
+web: gunicorn infomptest:app
