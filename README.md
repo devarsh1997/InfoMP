@@ -43,3 +43,4 @@
 * Implement ways to filter the data to allow for easier data science analytics.
 * Branch out into similar efforts for other nations with a need for better structured government data.
 * Implement Indian MLA (Member of Legislative Assembly) politicians as well.
+* Further explore and develop Chatbots (FB/Microsoft) based on our API. 
