@@ -30,7 +30,7 @@
    *Simply removing the constituency url addition will not suffice.
 * You must return to the original base site to restart your instance
 * Simply changing the constituency at URL end will still function
-*Example consituency level url: https://safe-earth-99322.herokuapp.com/infomp/Bangaon
+* Example consituency level url: https://safe-earth-99322.herokuapp.com/infomp/Bangaon
 
 ## Contributor Guide
    * This API is open sourced because Indian GovTech infrastructure needs a lot of work.
