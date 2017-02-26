@@ -6,4 +6,5 @@
   
 # Keshav Harisrikanth
  * Worked on data engineering of the data used in API.
- * Worked on development of the API.
+ * Worked on deubgging of the API.
+ * Worked on Contributing Guide.
