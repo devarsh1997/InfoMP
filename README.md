@@ -31,6 +31,9 @@
 * You must return to the original base site to restart your instance
 * Simply changing the constituency at URL end will still function
 * Example consituency level url: https://safe-earth-99322.herokuapp.com/infomp/Bangaon
+* LocalUsage: Running info_MP.py in the LocalUsage directory will open a terminal utilizable in testing/exploring the data.
+   * Must be in the same directory as "info_MP_unified.json" (Why the json is replicated in the subdirectory.
+   * Preferable that you deploy the web based version.
 
 ## Contributor Guide
    * This API is open sourced because Indian GovTech infrastructure needs a lot of work.
