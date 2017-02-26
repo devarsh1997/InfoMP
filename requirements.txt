@@ -2,3 +2,5 @@ bs4
 requests
 Flask
 jsonify
+guinicorn
+
